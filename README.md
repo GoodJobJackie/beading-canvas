@@ -24,11 +24,15 @@ USAGE:
 ----------------------------------------------------
 1. To activate the beading canvas, run the VBA script:
    - Press ALT + F8, select the script name, and click 'Run'.
-2. The script will reformat the active Excel sheet into a grid that represents a beading canvas.
-3. Change the background color of cells to represent different beads:
+2. Select "Format Canvas."
+3. The script will reformat the active Excel sheet into a grid that represents a beading canvas.
+4. Select "Close" to dismiss the dialog box.
+5. Change the background color of cells to represent different beads:
    - Select a cell or a range of cells.
    - Use the 'Fill Color' tool in the Home tab to change the cell colors.
-4. Design your beadwork pattern by coloring the cells accordingly.
+6. Design your beadwork pattern by coloring the cells accordingly.
+7. Run the macro once more to bring up the dialog box.
+8. Use the "Up" and "Down" to highlight rows for easy reference while beading.
 
 TIPS:
 ----------------------------------------------------
@@ -43,7 +47,7 @@ CAUTION:
 
 SUPPORT:
 ----------------------------------------------------
-For any questions or support, please contact the script author at goodjobjacqueline@gmail.com.
+For any questions or support, please contact the script author at thirdbestgames@gmail.com.
 
 ====================================================
 Thank you for using the Beading Canvas VBA Script!
